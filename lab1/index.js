@@ -2,7 +2,7 @@ var el = document.getElementById("info");
 el.addEventListener("click", showinfoblock, false);
 function showinfoblock() 
 {
-    var info = document.getElementById("info-text");
+    var info =  document.getElementById("info-text");
     if (info.style.display == "block") 
     {
         info.style.display = "none";
