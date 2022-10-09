@@ -43,10 +43,10 @@
     text-align: left;
     left: 40%;
     position: absolute;
-    top: 8%;
+    top: 3%;
     background-color: rgb(245, 247, 230);
     width: 35%;
-    height: 25%;
+    height: 29%;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 10px;
     font-size: 17px;
@@ -67,6 +67,9 @@
     font-size: 17px;
     display: none;
     border-radius: 10px;
+}
+#skills-text div, #education-text div, #info-text div {
+    margin: 20px;
 }
 #skills-text
 {
